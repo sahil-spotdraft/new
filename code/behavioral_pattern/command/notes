@@ -1,0 +1,7 @@
+## Structure
+============
+- Command Interface: Declares a method for executing a command.
+- Concrete Commands: Implement the command interface and define the receiver's action.
+- Receiver: The object that knows how to perform the operations associated with a request.
+- Invoker: Initiates the request by calling the command's execute method.
+- Client: Creates the command and configures the invoker with it.

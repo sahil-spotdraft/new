@@ -1,0 +1,5 @@
+Structure
+=========
+- Context: Maintains a reference to the current state. Delegates state-specific behavior to the current state.
+- State Interface: Defines the interface for all concrete states.
+- Concrete States: Implement specific behavior for each state.

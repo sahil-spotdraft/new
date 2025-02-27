@@ -1,0 +1,5 @@
+## Structure
+============
+- Handler: Declares an interface for handling requests and optionally sets the next handler in the chain.
+- Concrete Handlers: Implement the handler interface and decide whether to process the request or forward it to the next handler.
+- Client: Initiates the request and passes it to the chain.

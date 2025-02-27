@@ -1,0 +1,6 @@
+Structure
+=========
+- Subject: Maintains a list of observers and notifies them of state changes.
+- Observer: An interface or abstract class defining the method to update observers when the subject's state changes.
+- Concrete Subject: Implements the subject's logic and notifies observers about changes.
+- Concrete Observer: Implements the observer interface and reacts to changes in the subject.

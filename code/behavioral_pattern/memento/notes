@@ -1,0 +1,5 @@
+Structure
+=========
+- Memento: This class stores the state of the object.
+- Originator: The object whose state we want to save or restore. It creates a memento containing its internal state and can restore its state from a memento.
+- Caretaker: The class responsible for managing the mementos. It requests mementos from the originator and stores them, but it doesn't modify or examine the content of the memento.
