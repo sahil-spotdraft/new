@@ -1,0 +1,2 @@
+- Used factory pattern to get different pieces
+- Use stategy pattern to handle different possible movements like straight, or diagonal

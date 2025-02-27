@@ -1,0 +1,10 @@
+<script>start("/Users/sahilalam/Desktop/projects/django-rest-api/env/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("bin","bin",1,3648,"3.6 kB",1739441188,"13/02/2025, 15:36:28");</script>
+<script>addRow("include","include",1,96,"96 B",1692124846,"16/08/2023, 00:10:46");</script>
+<script>addRow("lib","lib",1,128,"128 B",1739441185,"13/02/2025, 15:36:25");</script>
+<script>addRow("man","man",1,96,"96 B",1692124847,"16/08/2023, 00:10:47");</script>
+<script>addRow("share","share",1,96,"96 B",1697704010,"19/10/2023, 13:56:50");</script>
+<script>addRow("src","src",1,96,"96 B",1716898206,"28/05/2024, 17:40:06");</script>
+<script>addRow("LICENSE","LICENSE",0,1532,"1.5 kB",1692179805,"16/08/2023, 15:26:45");</script>
+<script>addRow("pyvenv.cfg","pyvenv.cfg",0,120,"120 B",1739441475,"13/02/2025, 15:41:15");</script>
